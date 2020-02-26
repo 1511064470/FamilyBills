@@ -10,4 +10,4 @@
 2）自定义封装了饼状图和柱状图的控件
 3）使用了MVC架构
 4）灵活使用了继承、类别
- ![image](https://github.com/1511064470/FamilyBills/blob/master/%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.mov)
+ ![image](https://github.com/1511064470/FamilyBills/blob/master/1.png)
